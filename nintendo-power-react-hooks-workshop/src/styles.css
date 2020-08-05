@@ -1,0 +1,34 @@
+.container-app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  font-weight: bold;
+}
+
+.post {
+  width: 70%;
+  margin-top: 55px;
+  padding: 10px;
+  border: 4px solid black;
+}
+
+.container-footer {
+  font-weight: bold;
+  size: 8px;
+  float: right;
+  margin-right: 15%;
+}
+
+.profile-image {
+  margin-top: 50px;
+  width: 200px;
+  height: 200px;
+  border: 8px solid rgb(36, 36, 36);
+  border-radius: 50%;
+}
+
+.list-posts {
+  margin: 5%;
+}
