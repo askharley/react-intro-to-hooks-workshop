@@ -10,7 +10,7 @@
 ### Clone Repo
 ```
 # clone the repo
-$ git clone 
+$ git clone git@github.com:haefele-software/react-hooks-workshop.git
 ​
 # go into the repo root
 $ cd react-hooks-workshop
