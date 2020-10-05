@@ -38,6 +38,9 @@ $ npm start
 
 ## 🤖 Deployments
 ​
+* [start](https://react-intro-to-hooks-workshop-start.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-intro-to-hooks-workshop-start/deploys)
+* [final-redux](https://react-intro-to-hooks-workshop-final-redux.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-intro-to-hooks-workshop-final-redux/deploys)
+* [final-recoil](https://react-intro-to-hooks-workshop-final.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-intro-to-hooks-workshop-final-recoil/deploys)
 ​
 ## 🚀 How To Use This Workshop
 - The slides can be found in PDF form. The slides outline what React Hooks can solve.
