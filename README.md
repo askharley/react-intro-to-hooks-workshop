@@ -39,7 +39,7 @@ $ npm start
 * [final](https://github.com/askharley/react-intro-to-hooks-workshop/tree/main/final)
 
 ## 🤖 Deployments
-​
+
 * [start](https://react-intro-to-hooks-workshop-start.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-intro-to-hooks-workshop-start/deploys)
 * [final-redux](https://react-intro-to-hooks-workshop-final.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-intro-to-hooks-workshop-final/deploys)
 ​
