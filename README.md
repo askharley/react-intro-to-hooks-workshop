@@ -1,5 +1,7 @@
 # React Intro To Hooks Workshop
 
+This is a workshop that serves as a basic introduction to React hooks. We'll refactor our application to make use of functional components instead of class components as well as make use of hooks such as useState and useEffect to manage our component state and request lifecycle.
+
 ## Table of Contents
 * [🎯 Goals](#goaols)
 * [⚡ Get Started](#get-started)
