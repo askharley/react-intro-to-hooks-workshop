@@ -1,9 +1,6 @@
 {
-  "name": "nintendo-power-react-hooks-workshop",
-  "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "src/index.js",
+  "name": "react-intro-to-hooks-workshop-final",
+  "version": "1.0.0",  
   "dependencies": {
     "axios": "0.19.2",
     "bootstrap": "4.4.1",
@@ -14,9 +11,7 @@
     "react-router-dom": "5.1.2",
     "react-scripts": "3.0.1"
   },
-  "devDependencies": {
-    "typescript": "3.3.3"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
